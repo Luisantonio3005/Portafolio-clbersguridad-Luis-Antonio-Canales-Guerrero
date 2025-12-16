@@ -1,54 +1,24 @@
-#  Portafolio de Ciberseguridad - Luis Antonio Canales Guerrero
+# Luis Antonio Canales Guerrero — Perfil Profesional en Ciberseguridad
 
-##  Descripción
+## Declaración profesional
+Soy **Luis Antonio Canales Guerrero**, Profesional Técnico Bachiller en Informática (CDMX) con la ambición de convertirme en un analista de ciberseguridad de alto impacto. Cuento con una trayectoria de aprendizaje acelerado y **18 certificaciones** de proveedores líderes como Cisco, Microsoft y Google, que respaldan mi preparación técnica y práctica.
 
-Este repositorio contiene mi portafolio profesional de ciberseguridad, incluyendo mi declaración profesional y otros documentos relevantes para mi carrera en el campo de la seguridad de la información.
+## Propósito fundamental
+Mi interés en la ciberseguridad nace de un compromiso ético: defender el derecho a la privacidad de las personas y ayudar a las organizaciones a proteger la confidencialidad e integridad de sus datos. Mantengo una actitud proactiva frente a un panorama de amenazas en constante evolución.
 
-##  Contenido
+## Fortalezas clave
+- Resolución de problemas bajo presión: actúo con eficacia cuando la situación exige respuestas rápidas y seguras.
+  
+- Aprendizaje rápido y adaptabilidad: me actualizo continuamente y adopto nuevas tecnologías y metodologías.
+  
+- Colaboración orientada a resultados: trabajo para aportar valor tangible a equipos y proyectos.
 
--  **Declaración Profesional**: Documento que describe mi perfil profesional, puntos fuertes, valores e interés en ciberseguridad.
--  **README**: Información general sobre el portafolio.
+## Habilidades y experiencia aplicada
+- Redes empresariales: completé los tres módulos de **CCNA** y he diseñado/configurado topologías de alcance mediano en Packet Tracer, validando protocolos L2/L3 de routing y switching.
+  
+- Ciberseguridad y Cloud: certificado en **Google Ciberseguridad** y con múltiples certificaciones de Microsoft en seguridad y nube; experiencia desplegando infraestructura en **Microsoft Azure** (máquinas virtuales, redes virtuales, gestión de identidades y cumplimiento).
+  
+- Automatización y análisis: conocimiento práctico de **Python** (certificación Cisco Python Essentials 1) para automatizar tareas, analizar datos y apoyar operaciones de seguridad. He explorado la aplicación de **IA en ciberseguridad** para detección y análisis avanzado.
 
-##  Declaración Profesional
-
-Mi declaración profesional refleja mi compromiso con el campo de la ciberseguridad, destacando:
-
--  Puntos fuertes profesionales
--  Valores fundamentales
--  Interés y motivación por la ciberseguridad
--  Cómo puedo contribuir a los objetivos de seguridad de una organización
-
-##  Tecnologías y Habilidades
-
--  Herramientas de ciberseguridad
--  Python
--  Linux
--  SQL
--  Análisis de seguridad
--  Resolución de problemas
-
-##  Contacto
-
--  **Nombre**: Luis Antonio Canales Guerrero
--  **Campo**: Ciberseguridad
--  **Estado**: En formación profesional
-
-##  Formación
-
--  Técnico Bachiller en Informática
-
-##  Habilidades
-
--  Soporte técnico
--  Redes y sistemas operativos
--  SQL
--  Programación orientada a objetos
--  Lógica de programación
--  Python
--  Linux
--  Análisis de seguridad
--  Resolución de problemas
-
----
-
-*Este portafolio se actualiza regularmente a medida que adquiero nuevos conocimientos y experiencia en ciberseguridad.* 
+## Propuesta de valor
+Busco una oportunidad de nivel inicial donde pueda contribuir desde el primer día, fortaleciendo la postura de seguridad de la organización con una mezcla de conocimientos en redes, nube, automatización y análisis. Ofrezco no solo capacidad técnica, sino una actitud ética y colaborativa orientada a la mejora continua y a la protección de la privacidad.
