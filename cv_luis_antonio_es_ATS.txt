@@ -1,0 +1,204 @@
+LUIS ANTONIO CANALES GUERRERO
+Especializacion: Ciberseguridad - Redes - Cloud Computing - Automatizacion
+Gustavo A. Madero, Ciudad de Mexico, Mexico
+Correo: luisantoniocg@outlook.com
+Telefono: +52 55 7479 7052
+LinkedIn: linkedin.com/in/luis-antonio-canales-guerrero-b3565b280
+GitHub: github.com/Luisantonio3005
+
+PERFIL PROFESIONAL
+
+Estudiante de Ingenieria en Tecnologias de la Informacion y Comunicacion (ITICS) con solida formacion tecnica en Ciberseguridad Defensiva, Infraestructura de Redes y Computacion en la Nube. Posee certificaciones de lideres de la industria (Cisco, Microsoft, Google, Gobierno de Mexico) que validan sus competencias tecnicas.
+
+El enfoque se centra en la defensa en profundidad, combinando conocimientos de seguridad ofensiva y defensiva para implementar soluciones robustas. Experiencia practica en la aplicacion de Python e Inteligencia Artificial para fortalecer la postura de seguridad de organizaciones.
+
+Competencias clave: Gestion de incidentes de seguridad, arquitectura de redes seguras, administracion de sistemas Linux/Windows, criptografia aplicada, seguridad en la nube (Azure) y respuesta a incidentes.
+
+EDUCACION
+
+Ingenieria en Tecnologias de la Informacion y Comunicacion (ITICS)
+Instituto Tecnologico de Tlalnepantla (ITLA), TecNM
+- Especializacion en infraestructura de redes, ciberseguridad y sistemas distribuidos
+- Proyectos practicos: redes seguras, virtualizacion y scripting de seguridad
+- Miembro activo del Club de Robotica CRITLA - competencias de minizumo RC amateur
+- Laboratorios en TryHackMe y Hack The Box
+
+Profesional Tecnico Bachiller en Informatica
+Conalep Tlalnepantla
+- Formacion tecnica en programacion, redes y sistemas operativos
+- Competencias de robotica WER - representando a la institucion
+- Proyectos de automatizacion y seguridad informatica
+
+CERTIFICACIONES TECNICAS
+
+Cisco Networking Academy
+- CCNA (Cisco Certified Network Associate) - Completo
+- Python Essentials 1
+- Introduction to Cybersecurity
+
+Google y Coursera
+- Fundamentos de la Ciberseguridad (Google)
+- Introduccion a la IA Generativa (Google)
+- Introduction to AI for Cybersecurity (Coursera / Johns Hopkins University)
+
+Microsoft
+- Eduit - Evaluasi ECM0358 Fundamentos de IA Generativa
+
+Gobierno de Mexico (CONOCER)
+- Python Intermedio - Certificacion estandar de competencia laboral
+
+Otras Certificaciones
+- Cybersecurity Awareness - LinkedIn Learning
+- Introduction to Cybersecurity - ISC2
+- MAPS Disruptivo
+
+PROYECTOS Y EXPERIENCIA PRACTICA
+
+Implementacion de Red LAN Segura
+Diseno y configuracion completa de infraestructura de red local empresarial con enfoque en seguridad defensiva.
+- Segmentacion con VLANs (802.1Q) para aislamiento de trafico por departamentos
+- Control de acceso con ACLs para filtrado de trafico no autorizado
+- Servicios DHCP y DNS con configuracion de redundancia
+- Hardening de dispositivos Cisco: deshabilitacion de servicios, banners y autenticacion
+- Configuracion de routing estatico e inter-VLAN para comunicacion controlada
+Resultado: Red segmentada que reduce significativamente la superficie de ataque frente a redes planas tradicionales.
+
+Infraestructura Virtual en Microsoft Azure
+Implementacion de entorno cloud empresarial siguiendo el modelo de responsabilidad compartida.
+- Despliegue de VMs con Windows Server y Linux
+- Arquitectura de redes virtuales: Virtual Networks, subnets y NSGs
+- Azure Active Directory, RBAC y politicas de cumplimiento
+- Azure Security Center para monitoreo continuo de postura de seguridad
+- Azure Backup, Site Recovery y estrategias de continuidad del negocio
+- MFA, Conditional Access y Privileged Identity Management (PIM)
+
+Automatizacion de Seguridad con Python e IA
+- Scripts Python para parseo, normalizacion y analisis de registros de seguridad
+- Algoritmos basicos de ML para deteccion de anomalias y patrones sospechosos
+- Playbooks automatizados para respuesta a incidentes comunes
+- Uso de LLMs para analisis de vulnerabilidades y generacion de reportes tecnicos
+
+Club de Robotica CRITLA - ITLA
+- Diseno y programacion de robots minizumo RC para competencias de robotica amateur
+- Desarrollo de robots seguidores de linea amateur: diseno de circuito, calibracion de sensores IR y logica de control
+- Programacion en Arduino (C/C++) para control del minizumo: logica de combate, lectura de sensores y control de motores
+- Integracion de sensores (ultrasonicos, IR, encoders) y actuadores en sistemas embebidos
+Logros: Medallas y reconocimiento representando al ITLA en competencias en ESIME Azcapotzalco.
+
+CONOCIMIENTOS ESPECIALIZADOS EN CIBERSEGURIDAD
+
+Ciberseguridad Defensiva y Operativa
+- Gestion de Incidentes: ciclo completo Preparacion, Deteccion, Contencion, Erradicacion, Recuperacion, Lecciones Aprendidas
+- Cadena de custodia para preservacion de evidencia digital forense
+- Documentacion conforme a NIST SP 800-61
+- Sistemas de Monitoreo y Deteccion: IDS/IPS con Snort y Suricata; analisis de alertas y bloqueo proactivo
+- SIEM: correlacion de logs con Splunk y ELK Stack (laboratorios practicos)
+- Honeypots: despliegue de senuelos para analisis de comportamiento de atacantes
+- Defensa en Profundidad, Principio de Minimo Privilegio
+- Segmentacion de red, micro-segmentacion y Zero Trust Architecture
+
+Infraestructura y Redes Seguras
+- Wi-Fi: evolucion WEP, WPA, WPA2-AES, WPA3 (estandar actual)
+- TCP/IP, OSI, IPv4/IPv6, subnetting, routing estatico y dinamico (OSPF, EIGRP)
+- VPN: IPSec, SSL/TLS, WireGuard - comunicaciones cifradas site-to-site y client-to-site
+- VLANs (802.1Q), inter-VLAN routing, Private VLANs, trunking
+- DHCP Snooping, Dynamic ARP Inspection, IP Source Guard
+- STP Security: Root Guard, BPDU Guard; Port Security
+- Air Gapping para sistemas criticos (ICS/SCADA)
+
+Seguridad en Cloud
+- IaaS / PaaS / SaaS: responsabilidades del cliente y del proveedor en cada modelo
+- CASB (Cloud Access Security Broker)
+- Gestion de identidades: MFA, SSO, federacion, PIM, Conditional Access
+- Cifrado en transito (TLS) y en reposo (AES-256), Azure Key Vault
+- Cumplimiento y gobernanza: marcos regulatorios, retencion de datos y auditoria
+
+Administracion de Sistemas y Seguridad de Endpoints
+- Linux: Ubuntu, CentOS, Kali Linux - administracion, hardening (CIS Benchmarks), shell scripting (Bash)
+- Windows Server 2016/2019 y Windows 10/11 - Active Directory, GPO, PowerShell, WSUS, BitLocker
+- Virtualizacion: VMware, VirtualBox, Hyper-V, Docker (conceptos), Kubernetes (familiaridad)
+
+Criptografia y Autenticacion
+- Cifrado simetrico: AES-128/256, 3DES
+- Cifrado asimetrico: RSA, ECC - PKI, certificados digitales, firmas digitales
+- Funciones hash: SHA-256, SHA-3, MD5 (inseguro)
+- Salting y Peppering para invalidar Rainbow Tables; Bcrypt, Argon2, PBKDF2
+- MFA: TOTP, FIDO2/WebAuthn, biometria y tokens fisicos
+- Ataques: Credential Stuffing, Password Spraying, Brute Force - mitigaciones con rate limiting y lockout
+
+Seguridad Fisica e Ingenieria Social
+- Mantraps, control de acceso fisico, RFID, biometria y CCTV
+- Prevencion de Tailgating/Piggybacking en areas criticas
+- Vectores: Phishing, Spear Phishing, Vishing, Smishing, Pretexting, Baiting
+- Deepfakes e IA adversarial: deteccion de suplantacion de identidad generada por IA
+- Programas de concienciacion y simulacros de phishing - Human Firewall
+
+HABILIDADES TECNICAS
+
+Lenguajes de Programacion
+- Python - Intermedio - Automatizacion, analisis de datos, scripting de seguridad, OOP
+- Bash/Shell - Intermedio - Administracion Linux, hardening, scripts de automatizacion
+- PowerShell - Basico-Intermedio - Administracion Windows, Active Directory, auditoria
+- C / C++ - Basico - Microcontroladores, robotica educativa
+- SQL - Basico - Gestion de bases de datos, consultas basicas
+
+Redes y Telecomunicaciones
+- TCP/IP, UDP, HTTP/HTTPS, DNS, DHCP, SNMP
+- SSH, SSL/TLS, IPSec, WireGuard, OSPF, EIGRP
+- Routers y switches Cisco - CLI, routing L2/L3
+- VLANs (802.1Q), inter-VLAN, trunking, Port Security
+- Firewalls, ACLs, NAT/PAT, VPN site-to-site y client-to-site
+- Herramientas: Cisco Packet Tracer, Wireshark, Nmap
+
+Ciberseguridad
+- NIST CSF, ISO 27001 (conocimientos), CIS Controls
+- Metasploit (conceptos), Nmap, Wireshark, Burp Suite (basico)
+- Splunk, ELK Stack (laboratorios)
+- Analisis de vulnerabilidades, evaluacion de riesgos
+- Respuesta a incidentes: contencion, erradicacion, recuperacion
+- Zero Trust, Defense in Depth, minimo privilegio
+
+Cloud Computing - Microsoft Azure
+- VMs, VNets, NSGs, Azure AD, RBAC
+- MFA, Conditional Access, PIM, Key Vault
+- Azure Security Center, Microsoft Defender for Cloud
+- Azure Backup, Site Recovery, Azure Monitor
+- Storage Accounts, Log Analytics, Azure CLI
+- Terraform (conceptos), ARM Templates
+
+Sistemas Operativos y Virtualizacion
+- Linux: Ubuntu, CentOS, Kali Linux
+- Windows 10/11 y Windows Server 2016/2019
+- Active Directory, GPO, IIS, WSUS, BitLocker
+- VMware, VirtualBox, Hyper-V
+- Docker (conceptos), Kubernetes (familiaridad)
+- Bash scripting, PowerShell
+
+IDIOMAS
+- Espanol - Nativo (C2) - Lengua materna
+- Ingles - A2-B1 (Principiante-Intermedio) - Lectura tecnica, documentacion basica. En formacion activa para alcanzar nivel intermedio-avanzado.
+
+LOGROS Y RECONOCIMIENTOS
+- Competencias de robotica: Medallas en competencias de minizumo RC amateur representando al ITLA en ESIME Azcapotzalco
+- Certificaciones previas a egresar: Cisco (CCNA), Google Cybersecurity antes de concluir la carrera
+- CCNA Completo: valida conocimientos avanzados en redes y seguridad de red
+- Participacion activa en comunidades de ciberseguridad: TryHackMe, Hack The Box, CTFs
+
+FORMACION CONTINUA Y OBJETIVOS PROFESIONALES
+
+En Progreso
+- AZ-900: Azure Fundamentals (Microsoft) - en preparacion activa
+- CompTIA Security+ - certificacion base internacional en ciberseguridad
+- Azure Security Engineer Associate (AZ-500) - siguiente paso en el camino Azure
+- Ethical Hacking y metodologias de pentesting (OWASP, PTES, OSSTMM)
+- Laboratorios activos en TryHackMe, Hack The Box y plataformas CTF
+
+Objetivos a Corto Plazo (6-12 meses)
+- Primera experiencia profesional en SOC (Security Operations Center) o equipo de infraestructura
+- Especializacion en Cloud Security y practicas DevSecOps
+- Contribucion a proyectos de codigo abierto en ciberseguridad
+
+Objetivos a Mediano y Largo Plazo
+- Certificacion CISSP (Certified Information Systems Security Professional)
+- Arquitectura de seguridad empresarial y gestion de riesgos
+- Liderazgo de equipos de ciberseguridad defensiva (Blue Team)

@@ -1,0 +1,201 @@
+LUIS ANTONIO CANALES GUERRERO
+Gustavo A. Madero, Mexico City, Mexico
+Email: luisantoniocg@outlook.com
+Phone: +52 55 7479 7052
+LinkedIn: linkedin.com/in/luis-antonio-canales-guerrero-b3565b280
+GitHub: github.com/Luisantonio3005
+
+PROFESSIONAL PROFILE
+
+Student of Information and Communication Technology Engineering (ITICS) with a solid technical background in Defensive Cybersecurity, Network Infrastructure, and Cloud Computing. Holds certifications from industry leaders (Cisco, Microsoft, Google, Government of Mexico) that validate technical competencies.
+
+Approach focuses on defense in depth, combining offensive and defensive security knowledge to implement robust solutions. Practical experience applying Python and Artificial Intelligence to strengthen organizational security posture.
+
+Core competencies: Security incident management, secure network architecture, Linux/Windows systems administration, applied cryptography, cloud security (Azure), and incident response.
+
+EDUCATION
+
+B.Eng. in Information and Communication Technologies (ITICS)
+Instituto Tecnologico de Tlalnepantla (ITLA), TecNM
+- Specialization in network infrastructure, cybersecurity, and distributed systems
+- Practical projects: secure networks, virtualization, and security scripting
+- Active member of the CRITLA Robotics Club - amateur RC minizumo competitions
+- Labs on TryHackMe and Hack The Box
+
+Technical Professional Baccalaureate in Computer Science
+Conalep Tlalnepantla
+- Technical training in programming, networking, and operating systems
+- WER Robotics competitions - representing the institution
+- Automation and computer security projects
+
+TECHNICAL CERTIFICATIONS
+
+Cisco Networking Academy
+- CCNA (Cisco Certified Network Associate) - Complete
+- Python Essentials 1
+- Introduction to Cybersecurity
+
+Google and Coursera
+- Foundations of Cybersecurity (Google)
+- Introduction to Generative AI (Google)
+- Introduction to AI for Cybersecurity (Coursera / Johns Hopkins University)
+
+Microsoft
+- Eduit - Evaluasi ECM0358 Foundations of Generative AI
+
+Government of Mexico (CONOCER)
+- Intermediate Python - Labor competency standard certification
+
+Other Certifications
+- Cybersecurity Awareness - LinkedIn Learning
+- Introduction to Cybersecurity - ISC2
+- MAPS Disruptivo
+
+PROJECTS AND PRACTICAL EXPERIENCE
+
+Secure LAN Network Implementation
+Full design and configuration of enterprise local network infrastructure with a focus on defensive security.
+- VLAN segmentation (802.1Q) for traffic isolation by department
+- ACL-based access control for filtering unauthorized traffic
+- DHCP and DNS services with redundancy configuration
+- Cisco device hardening: service disabling, banners, and authentication
+- Static and inter-VLAN routing configuration for controlled communication
+
+Virtual Infrastructure on Microsoft Azure
+Deployment of an enterprise cloud environment following the shared responsibility model.
+- VM deployment with Windows Server and Linux
+- Virtual network architecture: Virtual Networks, subnets, and NSGs
+- Azure Active Directory, RBAC, and compliance policies
+- Azure Security Center for continuous security posture monitoring
+- Azure Backup, Site Recovery, and business continuity strategies
+- MFA, Conditional Access, and Privileged Identity Management (PIM)
+
+Security Automation with Python and AI
+- Python scripts for parsing, normalization, and analysis of security logs
+- Basic ML algorithms for anomaly detection and suspicious pattern identification
+- Automated playbooks for common incident response
+- Use of LLMs for vulnerability analysis and technical report generation
+
+CRITLA Robotics Club - ITLA
+- Design and programming of RC minizumo robots for amateur robotics competitions
+- Development of amateur line-follower robots: circuit design, IR sensor calibration, and control logic
+- Arduino (C/C++) programming for minizumo control: combat logic, sensor reading, and motor control
+- Integration of sensors (ultrasonic, IR, encoders) and actuators in embedded systems
+
+SPECIALIZED CYBERSECURITY KNOWLEDGE
+
+Defensive and Operational Cybersecurity
+- Incident Management: full cycle Preparation, Detection, Containment, Eradication, Recovery, Lessons Learned
+- Chain of custody for digital forensic evidence preservation
+- Documentation per NIST SP 800-61
+- Monitoring and Detection: IDS/IPS with Snort and Suricata; alert analysis and proactive blocking
+- SIEM: log correlation with Splunk and ELK Stack (practical labs)
+- Honeypots: deployment of decoys for attacker behavior analysis
+- Defense in Depth, Principle of Least Privilege
+- Network segmentation, micro-segmentation, and Zero Trust Architecture
+
+Secure Infrastructure and Networks
+- Wi-Fi security evolution: WEP, WPA, WPA2-AES, WPA3
+- TCP/IP, OSI, IPv4/IPv6, subnetting, static and dynamic routing (OSPF, EIGRP)
+- VPN: IPSec, SSL/TLS, WireGuard - encrypted site-to-site and client-to-site communications
+- VLANs (802.1Q), inter-VLAN routing, Private VLANs, trunking
+- DHCP Snooping, Dynamic ARP Inspection, IP Source Guard
+- STP Security: Root Guard, BPDU Guard; Port Security
+- Air Gapping for critical systems (ICS/SCADA)
+
+Cloud Security
+- IaaS / PaaS / SaaS shared responsibility model
+- CASB (Cloud Access Security Broker)
+- Identity management: MFA, SSO, federation, PIM, Conditional Access
+- Encryption in transit (TLS) and at rest (AES-256), Azure Key Vault
+- Compliance and governance: regulatory frameworks, data retention, and auditing
+
+Systems Administration and Endpoint Security
+- Linux: Ubuntu, CentOS, Kali Linux - administration, hardening (CIS Benchmarks), Bash scripting
+- Windows Server 2016/2019 and Windows 10/11 - Active Directory, GPO, PowerShell, WSUS, BitLocker
+- Virtualization: VMware, VirtualBox, Hyper-V, Docker (concepts), Kubernetes (familiarity)
+
+Cryptography and Authentication
+- Symmetric encryption: AES-128/256, 3DES
+- Asymmetric encryption: RSA, ECC - PKI, digital certificates, digital signatures
+- Hash functions: SHA-256, SHA-3, MD5 (insecure)
+- Salting and Peppering to invalidate Rainbow Tables; Bcrypt, Argon2, PBKDF2
+- MFA: TOTP, FIDO2/WebAuthn, biometrics, and physical tokens
+- Attack mitigation: Credential Stuffing, Password Spraying, Brute Force - rate limiting and lockout
+
+Physical Security and Social Engineering
+- Mantraps, physical access control, RFID, biometrics, and CCTV
+- Prevention of Tailgating and Piggybacking in critical areas
+- Attack vectors: Phishing, Spear Phishing, Vishing, Smishing, Pretexting, Baiting
+- Deepfakes and adversarial AI: detection of AI-generated identity impersonation
+- Awareness programs and phishing simulations - Human Firewall
+
+TECHNICAL SKILLS
+
+Programming Languages
+- Python - Intermediate - Automation, data analysis, security scripting, OOP
+- Bash / Shell - Intermediate - Linux administration, hardening, automation scripts
+- PowerShell - Basic to Intermediate - Windows administration, Active Directory, auditing
+- C / C++ - Basic - Microcontrollers, educational robotics
+- SQL - Basic - Database management, basic queries
+
+Networks and Telecommunications
+- TCP/IP, UDP, HTTP/HTTPS, DNS, DHCP, SNMP
+- SSH, SSL/TLS, IPSec, WireGuard, OSPF, EIGRP
+- Cisco routers and switches - CLI, L2/L3 routing
+- VLANs (802.1Q), inter-VLAN, trunking, Port Security
+- Firewalls, ACLs, NAT/PAT, site-to-site and client-to-site VPN
+- Tools: Cisco Packet Tracer, Wireshark, Nmap
+
+Cybersecurity
+- NIST CSF, ISO 27001 (knowledge), CIS Controls
+- Metasploit (concepts), Nmap, Wireshark, Burp Suite (basic)
+- Splunk, ELK Stack (labs)
+- Vulnerability analysis, risk assessment
+- Incident response: containment, eradication, recovery
+- Zero Trust, Defense in Depth, least privilege
+
+Cloud Computing - Microsoft Azure
+- VMs, VNets, NSGs, Azure AD, RBAC
+- MFA, Conditional Access, PIM, Key Vault
+- Azure Security Center, Microsoft Defender for Cloud
+- Azure Backup, Site Recovery, Azure Monitor
+- Storage Accounts, Log Analytics, Azure CLI
+- Terraform (concepts), ARM Templates
+
+Operating Systems and Virtualization
+- Linux: Ubuntu, CentOS, Kali Linux
+- Windows 10/11 and Windows Server 2016/2019
+- Active Directory, GPO, IIS, WSUS, BitLocker
+- VMware, VirtualBox, Hyper-V
+- Docker (concepts), Kubernetes (familiarity)
+- Bash scripting, PowerShell
+
+LANGUAGES
+- Spanish - Native (C2) - Mother tongue
+- English - A2-B1 (Beginner-Intermediate) - Technical reading, basic documentation. Actively working toward intermediate-advanced level.
+
+ACHIEVEMENTS AND RECOGNITION
+- Robotics competitions: Medals at amateur RC minizumo competitions representing ITLA at ESIME Azcapotzalco
+- Pre-graduation certifications: Cisco (CCNA) and Google Cybersecurity before completing the degree
+- Complete CCNA: validates advanced knowledge in networking and network security
+- Active participation in cybersecurity communities: TryHackMe, Hack The Box, CTFs
+
+CONTINUOUS LEARNING AND PROFESSIONAL GOALS
+
+In Progress
+- AZ-900: Azure Fundamentals (Microsoft) - actively preparing
+- CompTIA Security+ - baseline international cybersecurity certification
+- Azure Security Engineer Associate (AZ-500) - next step on the Azure path
+- Ethical Hacking and pentesting methodologies (OWASP, PTES, OSSTMM)
+- Active labs on TryHackMe, Hack The Box, and CTF platforms
+
+Short-Term Goals (6-12 months)
+- First professional experience in a SOC (Security Operations Center) or infrastructure team
+- Specialization in Cloud Security and DevSecOps practices
+- Contribution to open-source cybersecurity projects
+
+Mid- and Long-Term Goals
+- CISSP (Certified Information Systems Security Professional) certification
+- Enterprise security architecture and risk management
+- Leadership of defensive cybersecurity teams (Blue Team)
